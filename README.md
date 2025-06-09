@@ -22,7 +22,7 @@ To analyze Blinkit's sales performance, customer satisfaction, and inventory dis
 - Power BI
 - Microsoft Excel
 
-📂 Project Files
+## 📂 Project Files
 - `Blinkit_Sales_Dashboard.pbix` – Power BI dashboard file
 - `BlinkIT_Grocery_Data.xlsx` – Source data
 - `Business_Requirements.docx` – Project requirement document
